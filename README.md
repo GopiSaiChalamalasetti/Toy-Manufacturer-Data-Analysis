@@ -1,11 +1,11 @@
-ToyCraft Tales: Tableau’s Vision into Toy Manufacturer Data
+<h1>ToyCraft Tales: Tableau’s Vision into Toy Manufacturer Data</h1>
  Project Overview
 
 ToyCraft Tales is a data visualization and analytics project that explores the US Toy Manufacturers dataset (2005–2016) using Tableau. The project focuses on identifying year-wise trends, state-wise distribution, and top-performing states in the toy manufacturing industry.
 
 The insights are presented through an interactive Tableau Dashboard and Story, which are embedded into a Flask web application for easy access and demonstration.
 
-Objectives
+<h1>Objectives</h1>
 
 Analyze the year-wise trend of toy manufacturers in the United States
 
@@ -46,7 +46,7 @@ Story
 
  https://public.tableau.com/app/profile/chalamalasetti.gopi/viz/ToyCraft_Tales_17714794816330/ToyCraftTalesTableausVisionintoToyManufacturerData_1
 
- Tools & Technologies
+ <h1>Tools & Technologies</h1>
 
 Tableau Desktop / Tableau Public – Data visualization, dashboard and story
 
